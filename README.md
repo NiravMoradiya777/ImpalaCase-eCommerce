@@ -5,6 +5,7 @@ Welcome to the Impala-eCommerce project! This web application allows users to pu
 ## Table of Contents
 - [Overview](#overview)
 - [Video](#video)
+- [Login](#login)
 - [Technology Stack](#technology-stack)
 - [Screenshots](#screenshots)
 - [Features](#features)
@@ -13,7 +14,11 @@ Welcome to the Impala-eCommerce project! This web application allows users to pu
 Impala-eCommerce is a web-based platform designed for buying and selling phone cases. It provides a user-friendly interface for customers to browse through a variety of phone cases, add them to their cart, and complete the purchase. Additionally, an admin panel is available for administrators to manage products efficiently.
 
 ## video
-[![ImpalaCase Store Demo]([https://i.ytimg.com/vi/1P--kkhuGn4/hqdefault.jpg?s…AFwAcABBg==&rs=AOn4CLBGWHW98xu1w9NyUNQZSJcRAyYutQ](https://i.ytimg.com/vi/g6feK8nHAOA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhQIFUoZTAP&rs=AOn4CLBoTDaRDBwJllc3qsNfoDiDzn41-g))]([https://www.youtube.com/watch?v=1P--kkhuGn4](https://www.youtube.com/watch?v=g6feK8nHAOA))
+[![eCommerce Store Demo](https://i.ytimg.com/vi/g6feK8nHAOA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhQIFUoZTAP&rs=AOn4CLBoTDaRDBwJllc3qsNfoDiDzn41-g)]([https://www.youtube.com/watch?v=1P--kkhuGn4](https://www.youtube.com/watch?v=g6feK8nHAOA))
+
+## login
+- Admin (Email :- Admin@gmail.com, Password :- Admin@7797)
+- User - (Can be created By Own)
 
 ## Technology Stack
 - **Programming Language:** C#
